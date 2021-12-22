@@ -92,7 +92,7 @@
 
     .clock_svg {
         width: 1.3rem;
-        vertical-align: text-bottom;
+        vertical-align: text-top;
     }
 
     .flex {
